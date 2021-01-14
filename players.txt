@@ -1,0 +1,5 @@
+Name,HR,R,RBI,SB,AVG, 
+Bryce Harper,38,105,131,7,0.309, 
+Miguel Cabrera,29,96,113,2,0.33, 
+Paul Goldschmidt,33,100,122,16,0.31, 
+Mike Trout,37,113,122,14,0.301, 

@@ -1,0 +1,21 @@
+class Team(object):
+    
+    """Represents a hypothetical team as a list of Player objects"""
+
+    def __init__(self):
+        self.fBase = -1
+        self.sBase = -1
+        self.tBase = -1
+        self.short = -1
+        self.catcher = -1
+        self.of1 = -1
+        self.of2 = -1 
+        self.of3 = -1
+        self.util1 = -1
+        self.util2 = -1
+        self.ben1 = -1 
+        self.ben2 = -1
+        self.ben3 = -1
+        self.roster = [self.fBase, self.sBase, self.tBase, self.short, self.catcher,
+                        self.of1, self.of2, self.of3, self.util1, self.util2, self.ben1,
+                        self.ben2, self.ben3]
