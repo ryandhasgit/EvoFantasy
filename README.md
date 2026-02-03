@@ -21,5 +21,8 @@ Solutions to the TSP can only be approximated at scale. One method of doing soâ€
 
 EvoFantasy treats each randomly generated fantasy baseball lineup as a unique genome and follows the same methodology. 
 
+## Code
+This is written in Python and implements few libraries. The genetic algorithm itself is a custom implmentation I wrote from the ground up, based solely on my memory of a physics lecture. It is not maintainable, reusable, or scalable because these were not my intentions. It suffers from the naivety of a young developer with ambitious dreams, a devil-may-care commit philosphy, and complete disregard for optimization or modern architecture. Still, it works well and I've never seen another app like it.
+
 ## Results
 EvoFantasy is able to consistently produce lineups with exceptionally high-yielding rankings based on player stats. Since there are no known "perfect" lineups, quantification of this is anecdotal. But EvoFantasy consistently outperforms hand-chosen lineups and does so dynamically, during a live draft.
