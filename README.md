@@ -1,5 +1,5 @@
 ## Overview
-This project is the back-end code for a fantasy baseball optimization app using the Genetic algorithm machine learning technique. It is written in Python.
+This project is the back-end code for a fantasy baseball optimization app using the Genetic algorithm machine learning technique. It was "vibe coded" in Python between 2016 and 2019. Consider it a POC. The code suffers from massive spaghettification and was never intended to be built into anything else. But it works.
 
 The application runs an interpreter which provides a user with prompts. It is intended to be used during a live draft. The prompts allow a user to choose players that have been drafted and should be excluded from the algorithm. Each time a player is removed, the algorithm re-runs.
 
